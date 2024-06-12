@@ -18,7 +18,7 @@
 ```toml
 [bot]
 telegram_bot_token = "your_bot_token_here"
-
+```
 Replace "your_bot_token_here" with the actual token provided by the BotFather when you created your Telegram bot.
 
 To run the bot, execute the following command:
