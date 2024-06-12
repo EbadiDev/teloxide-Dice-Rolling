@@ -1,3 +1,4 @@
+![Alt text](assets/example.png?raw=true "Title")
 ### Usage
 
 - Users can start the bot with the `/start` command and receive a welcome message.
